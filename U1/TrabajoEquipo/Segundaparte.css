@@ -1,0 +1,45 @@
+body{ 
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi6cMbht6QZSV5JhV_H4Oy4QJYM6gvSgXJqg&usqp=CAU");
+   
+}
+
+
+.contenedor{
+
+    background-color: white;
+    width: 500px;
+    height: 440px;
+    margin: 130px auto;
+    text-align: center;
+    padding: 25px;
+    border-radius: 20px;
+
+}
+
+button{
+
+    display: block;
+    width: 300px;
+    font-size: 15px;
+    margin: 6px auto;
+    padding-top: 6px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.pregunta_nombre{
+
+    color: blue;
+    font-size: 25px;
+
+}
+
+.card{
+
+    background-color: rgb(250, 245, 241);
+}
+
+img{
+    width: 180px;
+    height: 150px;
+}

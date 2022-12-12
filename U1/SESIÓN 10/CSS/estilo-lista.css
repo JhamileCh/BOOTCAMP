@@ -1,0 +1,53 @@
+body{
+
+    font-family: Georgia;
+    background-image: url("https://previews.123rf.com/images/prapapon/prapapon1801/prapapon180100219/94486965-el-fondo-p%C3%BArpura-pastel-con-nubes-muy-brillante-hermoso-es-el-cielo-m%C3%A1s-hermoso-puede-utilizarse-com.jpg");
+}
+
+ul{
+
+    outline: 1px rgb(80, 240, 66);
+    outline-style: solid;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    width: 160px;
+    line-height: 24xp;
+    background-color: white;
+}
+
+a{
+
+    text-decoration: none;
+    color:rgb(236, 99, 202);
+    padding-left: 8px;
+    /*otutline :2px green;
+    outline-style:solid; */
+    display: block;
+}
+
+a:hover{
+
+    background-color: rgb(167, 157, 157);
+}
+
+a:active{
+
+    background-color: black;
+    color: white;
+}
+
+ul li:first-child{
+
+    background-color: aquamarine;
+}
+
+ul li:first-child a{
+
+    color: white;
+}
+
+ul li:first-child a:hover{
+
+    color:black
+}

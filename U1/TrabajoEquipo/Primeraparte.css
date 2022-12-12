@@ -1,0 +1,21 @@
+body{
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi6cMbht6QZSV5JhV_H4Oy4QJYM6gvSgXJqg&usqp=CAU");
+}
+
+.contenedor{ 
+
+    background-color: rgb(238, 221, 125);
+    width:490px ;
+    height:350px ;
+    margin:170px auto;
+    border-radius: 20px;
+    padding: 25px;
+    text-align: center;
+    color: rgb(128, 106, 253);
+
+}
+
+h3{
+    color: rgb(247, 71, 208);
+}

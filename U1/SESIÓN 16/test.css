@@ -1,0 +1,58 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(85, 95, 235);
+}
+
+.container{ /* siempre poner px no xp */
+
+    background-color: rgb(207, 112, 245);
+    width:500px ;
+    height:500px ;
+    margin:50px auto;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px 10px rgb(240, 188, 250);
+
+}
+
+.card{
+
+    background-color: rgb(224, 16, 243);
+    height: 460px;
+}
+
+.pregunta_nombre{
+
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.pregunta_contenido{
+    text-align: center;
+}
+
+.pregunta_enunciado{
+
+    background-color:rgb(78, 247, 253);
+    height: 150px;
+
+}
+
+.pregunta_alternativa{
+
+    background-color: rgb(211, 230, 109);
+    height: 200px;
+    line-height: 1.2px;
+
+}
+
+button{
+
+    display: block;
+    width: 300px;
+    font-size: 15px;
+    margin: 5px auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

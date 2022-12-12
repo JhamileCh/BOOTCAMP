@@ -1,0 +1,29 @@
+h3{
+    color:rgb(162, 88, 231);
+    background-color: rgb(236, 158, 62);
+}
+h1{
+    color: blue;
+    background-color: chartreuse;
+}
+#parrafo3{
+    color: crimson;
+    background-color: cornflowerblue;
+}
+.ejercicio{
+    background-color: rgb(40, 245, 91);
+    width: 500px;
+    height: 500px;
+    border: 20xp rgb(223, 4, 186);
+    border-style: groove double dashed dotted;  /* solid, dotted, dashed, double, grove double dasehd dotted */
+    margin-left: 400px;
+    margin-top:50px;
+    margin-bottom: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    text-align:center; /* center, justify, left, right */
+    outline: 10xp green;
+    outline-style: double;
+    text-decoration: underline overline; /*oveline, undeline, line-through */
+}
